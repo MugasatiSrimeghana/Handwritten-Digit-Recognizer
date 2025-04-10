@@ -1,4 +1,4 @@
-# CodeClauseInternship_HWDR
+# CISCO_Internship_HWDR
 This Project is done by Mugasati Srimeghana for @CodeClause Internship.
 
  ## What is Handwritten Digit Recognition?

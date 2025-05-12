@@ -1,4 +1,4 @@
-# CISCO_Internship_HWDR
+# Handwritten Digit Recognition
 This Project is done by Mugasati Srimeghana.
 
  ## What is Handwritten Digit Recognition?

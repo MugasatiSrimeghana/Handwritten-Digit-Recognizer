@@ -13,9 +13,10 @@ pip install numpy, tensorflow, keras, pillow,
 
 ## The MNIST dataset
 This is probably one of the most popular datasets among machine learning and deep learning enthusiasts. The MNIST dataset contains 60,000 training images of handwritten digits from zero to nine and 10,000 images for testing. So, the MNIST dataset has 10 different classes. The handwritten digits images are represented as a 28×28 matrix where each cell contains grayscale pixel value.
+That can be found ->[here](https://github.com/MugasatiSrimeghana/Handwritten-Digit-Recognizer/blob/main/archive.zip)
 
 # Building Python Project on Handwritten Digit Recognition
-
+The code can be found ->[here](https://github.com/MugasatiSrimeghana/Handwritten-Digit-Recognizer/blob/main/Python-Project-Handwritten-digit-recognizer.zip)
 ## Before lets see the results:
 ![gui](https://github.com/user-attachments/assets/2a51bd65-cee7-4290-8ebb-b2b499b15e92)
 

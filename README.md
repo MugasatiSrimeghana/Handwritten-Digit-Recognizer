@@ -16,6 +16,9 @@ This is probably one of the most popular datasets among machine learning and dee
 
 # Building Python Project on Handwritten Digit Recognition
 
+## Before lets see the results:
+![gui](https://github.com/user-attachments/assets/2a51bd65-cee7-4290-8ebb-b2b499b15e92)
+
 Below are the steps to implement the handwritten digit recognition project:
 
 ## 1. Import the libraries and load the dataset
